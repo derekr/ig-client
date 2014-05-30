@@ -1,0 +1,32 @@
+{
+  "name": "ig-client",
+  "version": "0.0.1",
+  "description": "Streaming Instagram API client.",
+  "main": "index.js",
+  "scripts": {
+    "test": "tape test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/derekr/ig-client"
+  },
+  "keywords": [
+    "instagram",
+    "api",
+    "api",
+    "client",
+    "streaming"
+  ],
+  "author": "Derek Reynolds <drk@diy.org>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/derekr/ig-client/issues"
+  },
+  "homepage": "https://github.com/derekr/ig-client",
+  "dependencies": {
+    "request": "^2.36.0"
+  },
+  "devDependencies": {
+    "tape": "^2.13.1"
+  }
+}
