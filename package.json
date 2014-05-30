@@ -1,6 +1,6 @@
 {
   "name": "ig-client",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Streaming Instagram API client.",
   "main": "index.js",
   "scripts": {
