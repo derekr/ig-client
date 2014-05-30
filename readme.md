@@ -35,7 +35,8 @@ ig({
 });
 ```
 
-Authenticated requests should be made w/ a token.
+Authenticated requests can be made by passing an `access_token`
+as the `token` item in the request options.
 
 ```js
 ig({
